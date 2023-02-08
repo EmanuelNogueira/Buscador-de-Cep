@@ -1,0 +1,7 @@
+-- Bibliotecas de Ícones:
+
+npm install react-icons 
+
+-- Biblioteca para trabalhar com requisições http: 
+
+npm install axios 
